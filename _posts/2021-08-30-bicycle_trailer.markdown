@@ -179,6 +179,8 @@ The drawbar positioning I also got a bit wrong:
 Carry Freedom uses a splint to fix the drawbar to its holder that is 5cm from the end of the drawbar.
 You want this splint to be approximately 20cm away from the center of the trailer.
 
+![trailer sketch](/assets/trailer/drawbar_splint.jpg)
+
 You should definitively drill the splint hole (6mm) **before** you weld the holder to the frame, as it is important to center it exactly.
 I forgot, did it later by hand, used 7mm and still had a bad fitting :-(.
 
@@ -228,7 +230,9 @@ For the front light, drill a 6mm hole, for the rear light a 5mm hole; both appro
 
 Put it on the frame, adjust the angle until it is parallel to the frame/wheel, spot weld, remove clamp, finish welding :-)
 
-To feed the cable, you can use (or make) aluminium "washers" (pieces of 10x10x2mm aluminium with a 5mm hole in the middle) you weld onto the frame - then use cable ties through the  hole to fix the cable to the frame.
+![trailer sketch](/assets/trailer/front_light.jpg)
+
+To feed the cable, you can use (or make) aluminium "washers" (pieces of 15x15x3mm aluminium with a 5mm hole in the middle) you weld onto the frame - then use cable ties through the  hole to fix the cable to the frame.
 
 #### Box holders
 Use 50x3mm aluminium to make a few pieces of about 5cm length that you weld around the frame - it is meant to hold the euro boxes in place.
@@ -240,7 +244,28 @@ Then, I bend a "box wall" out of 1,25m x 12,5cm x 2mm flat aluminium, which didn
 
 I noticed that the box was making quite some noise; welding it at as many places as possible made the resonant frequency increase and the noise level decrease. It is basically silent now :-)
 
+#### Drawbar
+
+![trailer sketch](/assets/trailer/selfmade_drawbar2.jpg)
+
+I drafted a drawbar out of 25x25x2mm aluminium.
+You need two pieces, one of 39cm and one of 42cm of length.
+Cut both with a 45 degrees angle and connect them so the piece forms a 90 degrees angle in the end.
+For more stability, add a 40x40 piece of 3mm flat aluminium on one or both sides, also try to make the weld on the inner/smaller angle a bit thicker.
+The shorter part connects to the bicycle:
+For the lollipop elastomer, first drill a 6mm hole from top to bottom, about 3cm from the end.
+Then, increase the size of the hole on one side of the square profile to 9mm.
+
+On the other side, drill a hole of 6-7mm about 4-5cm from the end for the splint to the trailer connection (this one is horizontal, e.g. parallel to the trailer base).
+
+![trailer sketch](/assets/trailer/selfmade_drawbar1.jpg)
+
+Tip: Drill a second hole for the trailer splint connection at 90 degrees so you can use the drawbar as an improvised hand drawbar when you rotate it by 90 degrees.
+
+
 ### Pictures
 
 
 ![trailer sketch](/assets/trailer/trailer_frame.jpg)
+![trailer sketch](/assets/trailer/finished_front.jpg)
+![trailer sketch](/assets/trailer/rear_light.jpg)
