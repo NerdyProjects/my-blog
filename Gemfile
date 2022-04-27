@@ -34,3 +34,5 @@ gem "webrick", "~> 1.7"
 gem "minimal-mistakes-jekyll"
 
 gem 'jekyll-include-cache'
+
+gem "ffi", "~> 1.15"

@@ -15,12 +15,12 @@ theme                  : "minimal-mistakes-jekyll"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Notes from Matthias"
+locale                   : "de-DE"
+title                    : "Dies und das von Matthias"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Matthias Larisch"
-description              : "... notes to share"
+description              : # description
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,11 +95,17 @@ analytics:
 # Site Author
 author:
   name             : "Matthias Larisch"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/ich.jpg"
     #bio              : "Mensch"
     #location         : "Irgendwo."
   email            :
   links:
+    - label: "Energieberatung"
+      url: "/energieberatung"
+    - label: "Blog"
+      url: "/blog"
+    - label: "Über mich"
+      url: "/ueber-mich"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:blog@matthias-larisch.de"
@@ -187,8 +193,8 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+paginate: 2 # amount of posts to show
+paginate_path: /blog/page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
@@ -260,4 +266,11 @@ defaults:
       share: true
       related: true
       show_date: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
