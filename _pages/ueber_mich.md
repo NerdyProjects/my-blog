@@ -19,11 +19,13 @@ Elektronik, Elektrotechnik, Mikrocontroller (AVR, STM32), PCB-Design (analog & d
 
 Lebenslauf:
 * Geburtsjahr 1988
-* Abitur, B.Sc. Technische Informatik (FH Wedel), M.Sc. Eingebettete Systeme und Mikrorobotik (Uni Oldenburg)
+* Abitur
 * 14 Jahre Jugendrotkreuz
 * Nebenjobs Zeitung austragen für 3,50€/Stunde und Paletten packen für 6,10€ die Stunde
 * 2007-2008 Zivildienst im Fahrdienst mit anschließender Überbrückung für 6,50€ die Stunde
+* 2008-2011 B.Sc. Technische Informatik (FH Wedel)
 * 3 Jahre Fachschaftsrat an der Uni Oldenburg
+* 2011-2014 M.Sc. Eingebettete Systeme und Mikrorobotik (Uni Oldenburg)
 * 2012-2013 Wissenschaftliche Hilfskraft/Nebenjob OFFIS e.V. Oldenburg
 * 2014-2015 Hardware & Software Entwickler TES Electronic Solutions in Hamburg
 * Seit 2014 Selbstständig im Bereich Elektronik-, Hardware- und Softwareentwicklung
